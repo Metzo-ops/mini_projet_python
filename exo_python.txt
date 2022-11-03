@@ -1,0 +1,18 @@
+Voici encore les consignes pour le mini project python .
+Mini project
+Système de réservation de billet d’avion
+#Function def:  greetings ( demander sa journée)
+# récolter le nom, prénom et l’âge
+# demandez sa destination de voyage : client doit préciser si c’est zone (Europe, Afrique etc) avant préciser le pays
+Dictionnaires de pays [ Europe : france,Belgique,Italie; Afrique : Ghana, Nigeria , Burkina; Amérique: usa,Peru ,Cuba]
+#Type de billet = ( aller simple ; aller retour)
+Zone Europe :aller simple = 2000€ ; aller -retour = 1800€
+Zone Afrique : aller simple :450000 cfa ; aller - retour : 290000 fr cfa
+Zone Amérique : aller simple = 1900$ aller-retour =  1300$
+# demandez si la personne veut vip_class or standard _class
+If vip_class ajouter 100 (€, $ or xof )
+# demandez si la personne veut du goûté
+Food: { thiep yapp :30, neen bakhaal :50, soup:60  ,dambé :40}
+## # client est arrivé à sa destination #####
+Print welcome message qui mentionne le nom du pays,  population , degré et la saison
+Exemple : { bienvenue au Sénégal, le pays compte 14.3 millions habitants, ce temps ci il fait 28 degré et c’est la saison des pluies
